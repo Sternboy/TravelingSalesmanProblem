@@ -11,7 +11,7 @@ Also has buttons for regenerating the locations to test different setups (as if 
 as well as buttons to add and subtract from the default number of locations.
 
 Future implementation goals would be to 
-1) add more algorithms (I have some in mind but don't currently have the time) 
+1) add more algorithms 
 2) Enhance the UI to change the colors of things based on the algorithm to make it more clear which is being used 
 3) Allow for multiple algorithms to be run and displayed to show the differences 
 4) Make a way to compare algorithms (perhaps recording the results of each test and displaying a bar graph of times when certain algs were most efficient) 
